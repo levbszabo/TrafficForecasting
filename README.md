@@ -1,5 +1,7 @@
 # Forecasting Street Speed using Alternative Data
 
+Team: Levente Szabo, Lingbo Ji, Yaowei Zong
+
 
 This repository contains code, data and analysis regarding traffic forecasting. 
 
