@@ -19,3 +19,5 @@ This repository contains code, data and analysis regarding traffic forecasting.
 traffic-forecasting-modelling.ipynb   notebook used to prototype models 
 
 traffic-forecasting.pdf               project article and analysis of results
+
+![]traffic-forecasting-1.png
