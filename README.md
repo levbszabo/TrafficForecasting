@@ -13,8 +13,8 @@ This repository contains code, data and analysis regarding traffic forecasting.
     weather-2019.csv       weather data 
 
 
-data: contains variety of background literature
+## data: contains variety of background literature
 
 
-traffic-forecasting-modelling.ipynb   notebook used to prototype models 
-traffic-forecasting.pdf               project article and analysis of results
+## traffic-forecasting-modelling.ipynb   notebook used to prototype models 
+## traffic-forecasting.pdf               project article and analysis of results
