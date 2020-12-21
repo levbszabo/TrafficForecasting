@@ -20,4 +20,5 @@ traffic-forecasting-modelling.ipynb   notebook used to prototype models
 
 traffic-forecasting.pdf               project article and analysis of results
 
-![]traffic-forecasting-1.png
+
+![alt text](https://github.com/ls5122/TrafficForecasting/blob/main/traffic-forecasting-1.png)
