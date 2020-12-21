@@ -1,6 +1,25 @@
 # TrafficForecasting
 Forecasting Street Speed using Alternative Data
 
+
+\title{Forecasting Street Speed using Alternative Data}
+
+\author{\IEEEauthorblockN{Lingbo Ji}
+\textit{New York University}\\
+\and
+\IEEEauthorblockN{Levente Szabo}
+\textit{New York University}\\
+\and
+\IEEEauthorblockN{Yaowei Zong}
+\textit{New York University}\\
+}
+
+\maketitle
+
+\begin{abstract}
+Forecasting of street speed is a pivotal component of many traffic analysis and route prediction algorithms. Street speed over a geographic region is highly non-linear being effected by both seasonal and environmental factors. To test our hypothesis of using alternative data sources to supplement forecasting street speed we train a baseline model against one with additional weather data and traffic collision counts. We train and evaluate our model over several New York City streets. Our results indicate significant improvement over the baseline particularly due to the pandemic lockdown in early 2020. 
+\end{abstract}
+
 This repository contains code, data and analysis regarding traffic forecasting. 
 
 ### code: contains all data preprocessing and pyspark scripts for performing forecasting
